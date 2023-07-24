@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Card = ({ college }) => {
-    console.log(college.collegeName)
     return (
         <div className="bg-white shadow-md rounded-lg overflow-hidden flex flex-col h-full">
             <img src={college.collegeImage} alt={college.collegeName} className="w-full h-48 object-cover" />
@@ -30,7 +29,7 @@ const Card = ({ college }) => {
                     </div>
                     <p className="text-sm text-black my-4"><span className='text-black font-bold'>Research History:</span> {college.researchHistory}</p>
                 </div>
-                <Link to={`/college/${college.id}`} className="btn rounded-none text-white bg-[#5F264A]">Details</Link>
+                <Link to={`/college/${college._id}`} className="btn rounded-none text-white bg-[#5F264A]">Details</Link>
             </div>
         </div>
     );

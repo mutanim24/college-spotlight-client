@@ -12,10 +12,10 @@ const CollegeCards = () => {
     }, [])
     return (
         <div className='my-14 px-12'>
-            <SectionTitle></SectionTitle>
+            <SectionTitle title="Discover Your Dream College" subtitle="Explore Top Colleges with Comprehensive Booking Facilities"></SectionTitle>
             <div className='grid grid-cols-3 gap-6'>
                 {
-                    colleges.map.slice(0, 3)((college, index) => <Card
+                    colleges.slice(0, 3).map((college, index) => <Card
                         key={index}
                         college={college}
                     ></Card>)

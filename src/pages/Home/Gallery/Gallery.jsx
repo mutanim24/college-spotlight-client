@@ -17,7 +17,7 @@ import SectionTitle from '../../../components/SectionTitle/SectionTitle';
 const Gallery = () => {
     return (
         <div className='md:px-12 my-16'>
-            <SectionTitle></SectionTitle>
+            <SectionTitle title="Journey Through Campus Moments" subtitle="Discover the Campus Beauty and Activities in our Gallery"></SectionTitle>
             <div data-aos="zoom-in" className='grid grid-cols-2 md:grid-cols-4 p-4 md:p-8 rounded border-8'>
                 <div className="shadow-xl">
                     <figure><img className='hover:scale-110 duration-100 h-60 w-72' src={gallery1} alt="dolls" /></figure>
