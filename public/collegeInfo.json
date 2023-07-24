@@ -1,0 +1,274 @@
+[
+    {
+        "collegeImage": "https://www.timeshighereducation.com/student/sites/default/files/styles/default/public/tohoku_university_2.jpg?itok=v3TUjQtG",
+        "collegeName": "City University",
+        "admissionDates": "September 1 - September 30",
+        "events": [
+            {
+                "name": "Open House",
+                "date": "2023-09-10",
+                "description": "Come and explore our campus facilities."
+            },
+            {
+                "name": "Alumni Meetup",
+                "date": "2023-09-15",
+                "description": "A gathering of esteemed alumni sharing their success stories."
+            },
+            {
+                "name": "Freshers' Welcome",
+                "date": "2023-09-20",
+                "description": "A grand event to welcome our new students to the City University family."
+            }
+        ],
+        "researchHistory": "Established in 1965, City University is renowned for its research excellence.",
+        "sports": [
+            {
+                "name": "Football",
+                "category": "Team Sports"
+            },
+            {
+                "name": "Basketball",
+                "category": "Team Sports"
+            },
+            {
+                "name": "Tennis",
+                "category": "Individual Sports"
+            },
+            {
+                "name": "Swimming",
+                "category": "Individual Sports"
+            }
+        ],
+        "collegeDetails": "City University is a prestigious institution located in the heart of the city. It offers a wide range of courses and emphasizes a holistic approach to education.",
+        "admissionProcess": "Prospective students must complete an online application and appear for an entrance examination. Shortlisted candidates will be called for an interview.",
+        "eventsDetails": "Open House: Come and explore our campus facilities.\nAlumni Meetup: A gathering of esteemed alumni sharing their success stories.\nFreshers' Welcome: A grand event to welcome our new students to the City University family.",
+        "researchWorks": "The university is actively involved in groundbreaking research across various disciplines, including technology, health sciences, and social sciences.",
+        "sportsCategories": "We encourage our students to participate in various sports activities. Our sports categories include team sports like Football and Basketball, as well as individual sports like Tennis and Swimming."
+    },
+    {
+        "collegeImage": "https://www.usd.edu/-/media/Project/USD/DotEdu/Home/Summer-2023-Photos/PH-USD_Old_Main_Summer_Front.jpg?rev=681108d0ec0c4f319b955dff8ba33fb6&sc_lang=en&w=1900&la=en&hash=8FF9F2DFDB2B04B14CB5B54B1EA2E48E",
+        "collegeName": "Sunset College",
+        "admissionDates": "October 1 - October 31",
+        "events": [
+            {
+                "name": "Orientation Week",
+                "date": "2023-10-5",
+                "description": "Get to know your college, faculty, and fellow students."
+            },
+            {
+                "name": "Cultural Fest",
+                "date": "2023-10-12",
+                "description": "A celebration of art, music, and cultural diversity on our campus."
+            },
+            {
+                "name": "Sports Carnival",
+                "date": "2023-10-20",
+                "description": "A competitive extravaganza featuring various sports events."
+            }
+        ],
+        "researchHistory": "Sunset College, founded in 1978, has a rich history of fostering innovation and creativity among its students.",
+        "sports": [
+            {
+                "name": "Cricket",
+                "category": "Team Sports"
+            },
+            {
+                "name": "Volleyball",
+                "category": "Team Sports"
+            },
+            {
+                "name": "Athletics",
+                "category": "Individual Sports"
+            },
+            {
+                "name": "Badminton",
+                "category": "Individual Sports"
+            }
+        ],
+        "collegeDetails": "Located near the picturesque Sunset Beach, our college offers a serene learning environment. We prioritize experiential learning and student development.",
+        "admissionProcess": "Prospective students need to fill out an application form and submit academic records. Shortlisted candidates will undergo a group discussion and personal interview.",
+        "eventsDetails": "Orientation Week: Get to know your college, faculty, and fellow students.\nCultural Fest: A celebration of art, music, and cultural diversity on our campus.\nSports Carnival: A competitive extravaganza featuring various sports events.",
+        "researchWorks": "Sunset College is dedicated to fostering research culture. Our faculty and students have contributed to significant research in fields such as environmental studies and business management.",
+        "sportsCategories": "Sports are an integral part of our college life. We have various sports categories, including Cricket, Volleyball, Athletics, and Badminton, providing opportunities for students to excel."
+    },
+    {
+        "collegeImage": "https://upload.wikimedia.org/wikipedia/commons/a/a9/University_of_Otago.jpg",
+        "collegeName": "Greenwood University",
+        "admissionDates": "November 1 - November 30",
+        "events": [
+            {
+                "name": "Tech Symposium",
+                "date": "2023-11-8",
+                "description": "A platform for showcasing technological innovations."
+            },
+            {
+                "name": "Entrepreneurship Summit",
+                "date": "2023-11-18",
+                "description": "A conference inspiring the next generation of entrepreneurs."
+            },
+            {
+                "name": "College Fest",
+                "date": "2023-11-25",
+                "description": "A carnival of music, dance, and creativity."
+            }
+        ],
+        "researchHistory": "Established in 1992, Greenwood University has been a hub of innovation and technology advancements.",
+        "sports": [
+            {
+                "name": "Hockey",
+                "category": "Team Sports"
+            },
+            {
+                "name": "Table Tennis",
+                "category": "Team Sports"
+            },
+            {
+                "name": "Chess",
+                "category": "Individual Sports"
+            },
+            {
+                "name": "Archery",
+                "category": "Individual Sports"
+            }
+        ],
+        "collegeDetails": "Nestled in a lush green campus, Greenwood University is committed to providing quality education and nurturing leadership qualities in its students.",
+        "admissionProcess": "Interested candidates can apply online or through the university office. Shortlisted applicants will have to go through a written test and personal interview.",
+        "eventsDetails": "Tech Symposium: A platform for showcasing technological innovations.\nEntrepreneurship Summit: A conference inspiring the next generation of entrepreneurs.\nCollege Fest: A carnival of music, dance, and creativity.",
+        "researchWorks": "Greenwood University is at the forefront of cutting-edge research, with departments focusing on AI, renewable energy, and bioinformatics.",
+        "sportsCategories": "Sports play a crucial role in our students' overall development. We offer various sports categories, including Hockey, Table Tennis, Chess, and Archery, to cater to diverse interests."
+    },
+    {
+        "collegeImage": "https://cdn.britannica.com/33/132433-050-AA78347C/Healy-Hall-Georgetown-University-Washington-DC.jpg",
+        "collegeName": "Liberty Institute of Science",
+        "admissionDates": "December 1 - December 31",
+        "events": [
+            {
+                "name": "Science Expo",
+                "date": "2023-12-5",
+                "description": "An exhibition of scientific projects and innovations."
+            },
+            {
+                "name": "Career Fair",
+                "date": "2023-12-15",
+                "description": "An opportunity for students to explore career options and interact with industry professionals."
+            },
+            {
+                "name": "Cultural Night",
+                "date": "2023-12-28",
+                "description": "A celebration of diverse cultures through music, dance, and drama."
+            }
+        ],
+        "researchHistory": "Liberty Institute of Science, established in 2005, has a legacy of excellence in science education and research.",
+        "sports": [
+            {
+                "name": "Basketball",
+                "category": "Team Sports"
+            },
+            {
+                "name": "Swimming",
+                "category": "Individual Sports"
+            },
+            {
+                "name": "Karate",
+                "category": "Individual Sports"
+            },
+            {
+                "name": "Yoga",
+                "category": "Individual Sports"
+            }
+        ],
+        "collegeDetails": "Our institute is dedicated to fostering a scientific temperament among students and promoting research in the field of science and technology.",
+        "admissionProcess": "Candidates need to submit an application form, followed by a written examination and personal interview.",
+        "eventsDetails": "Science Expo: An exhibition of scientific projects and innovations.\nCareer Fair: An opportunity for students to explore career options and interact with industry professionals.\nCultural Night: A celebration of diverse cultures through music, dance, and drama.",
+        "researchWorks": "Our institute encourages students and faculty to engage in research in areas like biotechnology, nanotechnology, and environmental science.",
+        "sportsCategories": "We believe in maintaining a healthy mind and body. Our sports categories include Basketball, Swimming, Karate, and Yoga to promote physical fitness among students."
+    },
+    {
+        "collegeImage": "https://studymedico.com/public//storage/uploads/university/blog154-86fdf53a9c2dde507b4d77b7a43a69b9.jpeg",
+        "collegeName": "Riverside Arts College",
+        "admissionDates": "January 1 - January 31",
+        "events": [
+            {
+                "name": "Art Exhibition",
+                "date": "2024-01-10",
+                "description": "An exhibition of art pieces created by our talented students."
+            },
+            {
+                "name": "Film Fest",
+                "date": "2024-01-18",
+                "description": "A showcase of short films created by aspiring filmmakers in our college."
+            },
+            {
+                "name": "Music Fest",
+                "date": "2024-01-25",
+                "description": "A celebration of music and performances by our talented musicians."
+            }
+        ],
+        "researchHistory": "Riverside Arts College, founded in 1980, offers a creative and nurturing environment for students passionate about arts.",
+        "sports": [
+            {
+                "name": "Dance",
+                "category": "Performing Arts"
+            },
+            {
+                "name": "Paintball",
+                "category": "Adventure Sports"
+            },
+            {
+                "name": "Gymnastics",
+                "category": "Physical Arts"
+            }
+        ],
+        "collegeDetails": "Riverside Arts College is renowned for its arts programs and encourages students to explore their creative talents.",
+        "admissionProcess": "Aspiring students need to submit a portfolio showcasing their artistic abilities, followed by a personal interview.",
+        "eventsDetails": "Art Exhibition: An exhibition of art pieces created by our talented students.\nFilm Fest: A showcase of short films created by aspiring filmmakers in our college.\nMusic Fest: A celebration of music and performances by our talented musicians.",
+        "researchWorks": "While our focus is on arts and creative fields, our students and faculty actively engage in projects that explore the intersection of arts with technology and society.",
+        "sportsCategories": "Physical expression through arts and performances is celebrated at our college. Our sports categories include Dance, Paintball, and Gymnastics, promoting creativity and physical expression."
+    },
+    {
+        "collegeImage": "https://upload.wikimedia.org/wikipedia/commons/c/cd/University-of-Alabama-EngineeringResearchCenter-01.jpg",
+        "collegeName": "Royal Medical College",
+        "admissionDates": "February 1 - February 28",
+        "events": [
+            {
+                "name": "Medical Conference",
+                "date": "2024-02-10",
+                "description": "A conference on the latest advancements in medical science."
+            },
+            {
+                "name": "Health Camp",
+                "date": "2024-02-15",
+                "description": "A free health camp for the local community."
+            },
+            {
+                "name": "Sports Meet",
+                "date": "2024-02-22",
+                "description": "An inter-college sports competition for medical colleges."
+            }
+        ],
+        "researchHistory": "Royal Medical College, founded in 1960, has a long-standing tradition of excellence in medical education and research.",
+        "sports": [
+            {
+                "name": "Volleyball",
+                "category": "Team Sports"
+            },
+            {
+                "name": "Swimming",
+                "category": "Individual Sports"
+            },
+            {
+                "name": "Basketball",
+                "category": "Team Sports"
+            },
+            {
+                "name": "Tennis",
+                "category": "Individual Sports"
+            }
+        ],
+        "collegeDetails": "Royal Medical College is a prestigious institution for medical education. We are committed to training compassionate and skilled healthcare professionals.",
+        "admissionProcess": "Applicants need to clear a medical entrance examination and undergo an interview to secure admission.",
+        "eventsDetails": "Medical Conference: A conference on the latest advancements in medical science.\nHealth Camp: A free health camp for the local community.\nSports Meet: An inter-college sports competition for medical colleges.",
+        "researchWorks": "Our college has a strong research focus in medical sciences, with ongoing research projects in various disciplines such as cardiology, oncology, and neurology.",
+        "sportsCategories": "Maintaining a healthy lifestyle is vital in the medical profession. Our sports categories include Volleyball, Swimming, Basketball, and Tennis to promote physical fitness among medical students."
+    }
+]
